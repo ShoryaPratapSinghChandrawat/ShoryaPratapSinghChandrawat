@@ -125,7 +125,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShoryaPratapSinghChandrawat&bg_color=0B1020&color=D7E3F4&line=50E6FF&point=FF70D9&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 </p>
 
 ## <img src="assets/section-divider.svg" alt="" width="100%" />
