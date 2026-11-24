@@ -17,6 +17,9 @@ I build end-to-end software, with a primary focus on **applied AI/ML and full-st
 **Current interests:** applied AI/ML · secure application engineering · full-stack systems · security research foundations · quantum simulation
 
 ## Featured projects
+See [the profile review and maintenance guide](PROFILE_REVIEW.md) for the
+evidence boundaries, recommended pins, manual account settings and the next
+security-portfolio milestones.
 
 These are the projects that best represent the areas I am exploring. Each repository includes its own setup instructions, implementation details, and limitations.
 
