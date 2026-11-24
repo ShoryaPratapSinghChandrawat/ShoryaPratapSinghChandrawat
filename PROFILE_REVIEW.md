@@ -28,6 +28,8 @@ Recommended profile pins (set them manually in GitHub profile settings):
 5. `FlipTrace-Decision-Reversal-Detection-Analytics-Platform` — browser systems and data processing.
 6. `Projects` — curated index for learning and creative builds.
 
+The exact profile-pinning and bio changes are not applied by this GitHub repository connector; they require the GitHub profile settings UI.
+
 For a dedicated cybersecurity internship application, reorder the first three
 only after you publish a focused security lab/tool with reproducible evidence.
 
